@@ -23,6 +23,7 @@ public class Main {
         ShapeColor.getMap();
 
         //hello added new comment to the jpaint
+        //added second comment via branch mahi
 
         // Singleton Design Pattern
         // Mouse Listener event - Passing paintCanvas and application state
