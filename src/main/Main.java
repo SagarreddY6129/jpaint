@@ -22,6 +22,8 @@ public class Main {
         controller.setup();
         ShapeColor.getMap();
 
+        //hello added new comment to the jpaint
+
         // Singleton Design Pattern
         // Mouse Listener event - Passing paintCanvas and application state
         MyMouseListener myMouseListenerObj = MyMouseListener.getInstance();
